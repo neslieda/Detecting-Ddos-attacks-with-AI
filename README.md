@@ -2,7 +2,7 @@
 
 This project focuses on the application of artificial intelligence techniques in cybersecurity. Specifically, various machine learning and deep learning models have been employed to detect Distributed Denial of Service (DDoS) attacks. Models such as Long Short-Term Memory (LSTM), XGBoost, Naive Bayes, and Quadratic Discriminant Analysis (QDA) are utilized to detect attacks in network traffic and develop defense mechanisms.
 
-To access the article you can download cyberAI-Article.docx
+To access the article you can download [cyberAI-Article.docx](https://github.com/neslieda/Detecting-Ddos-attacks-with-AI/blob/main/cyberAI-Article.docx)
 
 ## 📌 Table of Contents
 - [General Information](#general-information)
